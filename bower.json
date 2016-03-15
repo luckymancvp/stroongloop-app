@@ -1,0 +1,24 @@
+{
+  "name": "ChotSale",
+  "description": "ChotSale",
+  "main": "client/index.html",
+  "authors": [
+    "luckymancvp <luckymancvp@gmail.com>"
+  ],
+  "license": "UNLICENSED",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-resource": "^1.5.0",
+    "angular-ui-router": "^0.2.18",
+    "bootstrap": "^3.3.6"
+  }
+}
